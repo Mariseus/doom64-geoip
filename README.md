@@ -5,6 +5,6 @@ This repository does not contain a complete list of Russian domains. It is inten
 Domains will be added over time, and the resource will be migrated to SELFHOSTED in the future.
 Special thanks to the following repositories and their creators:
 
-[Repository](https://github.com/v2ray/domain-list-community) - [Vray](https://github.com/v2ray)
+[Vray](https://github.com/v2ray) - [Repository](https://github.com/v2ray/domain-list-community)
 
-[Repository](https://github.com/hxehex/russia-mobile-internet-whitelist/tree/main) - [hxehex](https://github.com/hxehex)
+[hxehex](https://github.com/hxehex) - [Repository](https://github.com/hxehex/russia-mobile-internet-whitelist/tree/main)
