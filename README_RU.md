@@ -1,3 +1,4 @@
+[EU](https://github.com/Mariseus/doom64-geoip/blob/main/README.md)
 # Описание репозитория.
 
 Этот репозиторий не содержит полного списка российских доменов. Он предназначен для маршрутизации клиентом XRAY Core для VPN Doom64 (aka NAMELESS VPN).
