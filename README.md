@@ -1,4 +1,4 @@
-[RU]
+[RU](https://github.com/Mariseus/doom64-geoip/blob/main/README_RU.md)
 # Description 
 
 This repository does not contain a complete list of Russian domains. It is intended for routing by the XRAY Core client for the Doom64 VPN (aka NAMELESS VPN).
